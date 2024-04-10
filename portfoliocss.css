@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navitem {
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#navlogo {
+    font-size: 32px;
+    font-weight: 700;
+    border-color: #1ad1ff;
+    border-width: 3px;
+    color: white;
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.bg-container {
+    background-color: #0d0e0e;
+    height: 100vh;
+
+}
+
+.homepage-heading {
+    color: white;
+    font-size: 45px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.home-page-caption {
+    color:#ffffff;
+    font-size: 40px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.home-page-button { 
+    background-color:#1ad1ff;
+    height: 45px;
+    width: 130px;
+    color: white;
+    font-family: "Roboto";
+    border-radius: 8px;
+    border-width: 0px;
+
+}
+
+.home-page-image {
+    
+   
+    width:330px;
+}
+
+.span-word {
+    color: #1ad1ff;
+}
+
+
+.facts {
+    color: #1ad1ff;
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.about-me {
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+}
+
+
+.description {
+    color: #e6e6e6;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.skills {
+    color: #1ad1ff;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.skills-bg-container {
+    background-color: #1f2933;
+    width:100vw;
+    padding:20px
+}
+
+
+.image-card {
+
+    border-width:3px;
+    border-color:#1ad1ff;
+   border-style:solid;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+.card-title {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.icon{
+    color:#1ad1ff;
+    font-size:20px;
+}
+.problemsol{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.icon-container{
+ 
+  width: 70px;
+  height: 70px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 13px;
+  padding-left: 22px;
+  border-width:2px;
+  border-style:solid;
+  border-color:#1ad1ff;
+}
+.follow-icon{
+    font-size:60px;
+    color:#1ad1ff;
+
+}
+.follow-me-caption{
+    color:#f2f2f2;
+    font-size:24px;
+    font-family: "Roboto";
+    font-weight: 500;
+
+}
+
